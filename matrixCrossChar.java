@@ -5,17 +5,17 @@ public class matrixCrossChar {
 
     public static void printMatrix(int size, char sign) {
         char[][] matrice = new char[size][size];
+
         for (int i = 0; i < matrice.length; i++) {
-            for (int j = 0; j < matrice[i].length; j++) {
+            for (int j = 0; j < matrice.length; j++) {
+
                 if (i == j || i + j == matrice.length - 1) {
                     matrice[i][j] = sign;
                 } else {
                     matrice[i][j] = '0';
                 }
             }
-            System.out.println();
         }
+        System.out.println("");
     }
 }
-
-// need to fix with new explanation

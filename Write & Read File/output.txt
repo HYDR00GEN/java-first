@@ -1,125 +1,125 @@
-line 0 Ei fu. Siccome immobile,
-line 1 Dato il mortal sospiro,
-line 2 Stette la spoglia immemore
-line 3 Orba di tanto spiro,
-line 4 Così percossa, attonita
-line 5 La terra al nunzio sta,
-line 6 
-line 7 Muta pensando all’ultima
-line 8 Ora dell’uom fatale;
-line 9 Nè sa quando una simile
-line 10 Orma di piè mortale
-line 11 La sua cruenta polvere
-line 12 A calpestar verrà.
-line 13 
-line 14 Lui folgorante in solio
-line 15 Vide il mio genio e tacque;
-line 16 Quando, con vece assidua,
-line 17 Cadde, risorse e giacque,
-line 18 Di mille voci al sonito
-line 19 Mista la sua non ha:
-line 20 
-line 21 Vergin di servo encomio
-line 22 E di codardo oltraggio,
-line 23 Sorge or commosso al subito
-line 24 Sparir di tanto raggio:
-line 25 E scioglie all’urna un cantico
-line 26 Che forse non morrà.
-line 27 
-line 28 Dall’Alpi alle Piramidi,
-line 29 Dal Manzanarre al Reno,
-line 30 Di quel securo il fulmine
-line 31 Tenea dietro al baleno;
-line 32 Scoppiò da Scilla al Tanai,
-line 33 Dall’uno all’altro mar.
-line 34 
-line 35 Fu vera gloria? Ai posteri
-line 36 L’ardua sentenza: nui
-line 37 Chiniam la fronte al Massimo
-line 38 Fattor, che volle in lui
-line 39 Del creator suo spirito
-line 40 Più vasta orma stampar.
-line 41 
-line 42 La procellosa e trepida
-line 43 Gioia d’un gran disegno,
-line 44 L’ansia d’un cor che indocile
-line 45 Serve, pensando al regno;
-line 46 E il giunge, e tiene un premio
-line 47 Ch’era follia sperar;
-line 48 
-line 49 Tutto ei provò: la gloria
-line 50 Maggior dopo il periglio,
-line 51 La fuga e la vittoria,
-line 52 La reggia e il tristo esiglio:
-line 53 Due volte nella polvere,
-line 54 Due volte sull’altar.
-line 55 
-line 56 Ei si nomò: due secoli,
-line 57 L’un contro l’altro armato,
-line 58 Sommessi a lui si volsero,
-line 59 Come aspettando il fato;
-line 60 Ei fe’ silenzio, ed arbitro
-line 61 S’assise in mezzo a lor.
-line 62 
-line 63 E sparve, e i dì nell’ozio
-line 64 Chiuse in sì breve sponda,
-line 65 Segno d’immensa invidia
-line 66 E di pietà profonda,
-line 67 D’inestinguibil odio
-line 68 E d’indomato amor.
-line 69 
-line 70 Come sul capo al naufrago
-line 71 L’onda s’avvolve e pesa,
-line 72 L’onda su cui del misero,
-line 73 Alta pur dianzi e tesa,
-line 74 Scorrea la vista a scernere
-line 75 Prode remote invan;
-line 76 
-line 77 Tal su quell’alma il cumulo
-line 78 Delle memorie scese!
-line 79 Oh quante volte ai posteri
-line 80 Narrar se stesso imprese,
-line 81 E sull’eterne pagine
-line 82 Cadde la stanca man!
-line 83 
-line 84 Oh quante volte, al tacito
-line 85 Morir d’un giorno inerte,
-line 86 Chinati i rai fulminei,
-line 87 Le braccia al sen conserte,
-line 88 Stette, e dei dì che furono
-line 89 L’assalse il sovvenir!
-line 90 
-line 91 E ripensò le mobili
-line 92 Tende, e i percossi valli,
-line 93 E il lampo de’ manipoli,
-line 94 E l’onda dei cavalli,
-line 95 E il concitato imperio,
-line 96 E il celere ubbidir.
-line 97 
-line 98 Ahi! forse a tanto strazio
-line 99 Cadde lo spirto anelo,
-line 100 E disperò: ma valida
-line 101 Venne una man dal cielo,
-line 102 E in più spirabil aere
-line 103 Pietosa il trasportò;
-line 104 
-line 105 E l’avviò, pei floridi
-line 106 Sentier della speranza,
-line 107 Ai campi eterni, al premio
-line 108 Che i desidéri avanza,
-line 109 Dov’è silenzio e tenebre
-line 110 La gloria che passò.
-line 111 
-line 112 Bella Immortal! benefica
-line 113 Fede ai trionfi avvezza!
-line 114 Scrivi ancor questo, allegrati;
-line 115 Chè più superba altezza
-line 116 Al disonor del Golgota
-line 117 Giammai non si chinò.
-line 118 
-line 119 Tu dalle stanche ceneri
-line 120 Sperdi ogni ria parola:
-line 121 Il Dio che atterra e suscita,
-line 122 Che affanna e che consola,
-line 123 Sulla deserta coltrice
-line 124 Accanto a lui posò.
+line 1 Ei fu. Siccome immobile,
+line 2 Dato il mortal sospiro,
+line 3 Stette la spoglia immemore
+line 4 Orba di tanto spiro,
+line 5 Così percossa, attonita
+line 6 La terra al nunzio sta,
+line 7 
+line 8 Muta pensando all’ultima
+line 9 Ora dell’uom fatale;
+line 10 Nè sa quando una simile
+line 11 Orma di piè mortale
+line 12 La sua cruenta polvere
+line 13 A calpestar verrà.
+line 14 
+line 15 Lui folgorante in solio
+line 16 Vide il mio genio e tacque;
+line 17 Quando, con vece assidua,
+line 18 Cadde, risorse e giacque,
+line 19 Di mille voci al sonito
+line 20 Mista la sua non ha:
+line 21 
+line 22 Vergin di servo encomio
+line 23 E di codardo oltraggio,
+line 24 Sorge or commosso al subito
+line 25 Sparir di tanto raggio:
+line 26 E scioglie all’urna un cantico
+line 27 Che forse non morrà.
+line 28 
+line 29 Dall’Alpi alle Piramidi,
+line 30 Dal Manzanarre al Reno,
+line 31 Di quel securo il fulmine
+line 32 Tenea dietro al baleno;
+line 33 Scoppiò da Scilla al Tanai,
+line 34 Dall’uno all’altro mar.
+line 35 
+line 36 Fu vera gloria? Ai posteri
+line 37 L’ardua sentenza: nui
+line 38 Chiniam la fronte al Massimo
+line 39 Fattor, che volle in lui
+line 40 Del creator suo spirito
+line 41 Più vasta orma stampar.
+line 42 
+line 43 La procellosa e trepida
+line 44 Gioia d’un gran disegno,
+line 45 L’ansia d’un cor che indocile
+line 46 Serve, pensando al regno;
+line 47 E il giunge, e tiene un premio
+line 48 Ch’era follia sperar;
+line 49 
+line 50 Tutto ei provò: la gloria
+line 51 Maggior dopo il periglio,
+line 52 La fuga e la vittoria,
+line 53 La reggia e il tristo esiglio:
+line 54 Due volte nella polvere,
+line 55 Due volte sull’altar.
+line 56 
+line 57 Ei si nomò: due secoli,
+line 58 L’un contro l’altro armato,
+line 59 Sommessi a lui si volsero,
+line 60 Come aspettando il fato;
+line 61 Ei fe’ silenzio, ed arbitro
+line 62 S’assise in mezzo a lor.
+line 63 
+line 64 E sparve, e i dì nell’ozio
+line 65 Chiuse in sì breve sponda,
+line 66 Segno d’immensa invidia
+line 67 E di pietà profonda,
+line 68 D’inestinguibil odio
+line 69 E d’indomato amor.
+line 70 
+line 71 Come sul capo al naufrago
+line 72 L’onda s’avvolve e pesa,
+line 73 L’onda su cui del misero,
+line 74 Alta pur dianzi e tesa,
+line 75 Scorrea la vista a scernere
+line 76 Prode remote invan;
+line 77 
+line 78 Tal su quell’alma il cumulo
+line 79 Delle memorie scese!
+line 80 Oh quante volte ai posteri
+line 81 Narrar se stesso imprese,
+line 82 E sull’eterne pagine
+line 83 Cadde la stanca man!
+line 84 
+line 85 Oh quante volte, al tacito
+line 86 Morir d’un giorno inerte,
+line 87 Chinati i rai fulminei,
+line 88 Le braccia al sen conserte,
+line 89 Stette, e dei dì che furono
+line 90 L’assalse il sovvenir!
+line 91 
+line 92 E ripensò le mobili
+line 93 Tende, e i percossi valli,
+line 94 E il lampo de’ manipoli,
+line 95 E l’onda dei cavalli,
+line 96 E il concitato imperio,
+line 97 E il celere ubbidir.
+line 98 
+line 99 Ahi! forse a tanto strazio
+line 100 Cadde lo spirto anelo,
+line 101 E disperò: ma valida
+line 102 Venne una man dal cielo,
+line 103 E in più spirabil aere
+line 104 Pietosa il trasportò;
+line 105 
+line 106 E l’avviò, pei floridi
+line 107 Sentier della speranza,
+line 108 Ai campi eterni, al premio
+line 109 Che i desidéri avanza,
+line 110 Dov’è silenzio e tenebre
+line 111 La gloria che passò.
+line 112 
+line 113 Bella Immortal! benefica
+line 114 Fede ai trionfi avvezza!
+line 115 Scrivi ancor questo, allegrati;
+line 116 Chè più superba altezza
+line 117 Al disonor del Golgota
+line 118 Giammai non si chinò.
+line 119 
+line 120 Tu dalle stanche ceneri
+line 121 Sperdi ogni ria parola:
+line 122 Il Dio che atterra e suscita,
+line 123 Che affanna e che consola,
+line 124 Sulla deserta coltrice
+line 125 Accanto a lui posò.
