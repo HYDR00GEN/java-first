@@ -6,7 +6,7 @@ import java.util.Arrays;
 /* function return true/false if inputed word exists in file*/
 public class findWord {
     public static void main(String[] args) {
-        boolean result = getWord("fronte");
+        boolean result = getWord("giunge");
         System.out.println(result);
     }
 
