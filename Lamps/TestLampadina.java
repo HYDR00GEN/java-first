@@ -7,5 +7,10 @@ public class TestLampadina {
         i.getLampCodefromSwitch();
         j.getLampCodefromSwitch();
 
+        i.clicker();
+        x.stato();
+
+        j.clicker();
+        x.stato();
     }
 }

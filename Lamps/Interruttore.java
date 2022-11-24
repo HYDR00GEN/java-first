@@ -17,10 +17,9 @@ public class Interruttore {
         return res;
     }
 
-    public void switch(){
-        if(lamp.stato()){
-            
-        }
+    public void clicker() {
+        lamp.click();
+        lamp.stato();
     }
 
 }
