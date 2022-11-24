@@ -1,11 +1,13 @@
 public class Lampadina {
     // attributi
+    private int code;
     private int clickMax;
     private int counter;
     private String status;
 
     // costruttore
-    public Lampadina(int clickMax) {
+    public Lampadina(int code, int clickMax) {
+        this.code = code;
         this.counter = 0;
         this.clickMax = clickMax;
         this.status = "spenta";
@@ -21,6 +23,10 @@ public class Lampadina {
         } else {
             this.status = "spenta";
         }
+    }
+
+    public int getLampCode() {
+        return this.code;
     }
 
     public String stato() {
